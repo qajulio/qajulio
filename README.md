@@ -2,7 +2,7 @@
 
 Quality Assurance focused on test automation, quality test, and AI-driven solutions.
 
-### 🔗 Conecte-se comigo
+### 🔗
 
 <p align="center">
   <a href="https://github.com/qajulio">
