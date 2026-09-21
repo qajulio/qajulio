@@ -34,4 +34,6 @@ Name: Julio Mishima
 Role: Quality Assurance / QA AI First
 Focus: QA AI-First
 Certification: CTFL-AT
+
+
 (By Julio Mishima - CTAI.)
