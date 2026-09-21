@@ -66,7 +66,7 @@ VSCode · Playwright · Cypress · JavaScript · GitHub Actions
   <script>
     const usuario = "SEU_USUARIO";
 
-    fetch(`https://api.github.com/users/${usuario}/repos?sort=updated&per_page=100`)
+    fetch(`https://api.github.com/users/${qajulio}/repos?sort=updated&per_page=100`)
       .then(response => response.json())
       .then(repositorios => {
 
