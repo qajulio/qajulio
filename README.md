@@ -1,8 +1,8 @@
-## JULIO MISHIMA - QA AI-1st - Test Automation
+## JULIO MISHIMA - QA AI-1st - Test Automation (CTFL-AT)
 
 Quality Assurance focused on test automation, quality test, and AI-driven solutions.
 
-# Focus
+### Focus
 
 Automation · Quality Test · AI · CI/CD - GitHubActions
 
@@ -14,7 +14,7 @@ QA Automation
 
 
 
-# Stack
+### Stack
 
 VSCode · Playwright · Cypress · JavaScript · GitHub Actions
 
