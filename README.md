@@ -12,21 +12,17 @@ Quality Assurance focused on test automation, quality test, and AI-driven soluti
   </a>
 </p>
 
+
 ### #️⃣ Focus
 
 Automation · Quality Test · AI · CI/CD - GitHubActions
-
 Projects
-
 AI QA DIY
-
 QA Automation
-
 
 
 ### #️⃣ Stack
 
 VSCode · Playwright · Cypress · JavaScript · GitHub Actions
 
-
-#️⃣By Julio Mishima - CTAI.
+(By Julio Mishima - CTAI.)
